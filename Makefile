@@ -1,5 +1,5 @@
 PKG_NAME := keyutils
-URL = http://people.redhat.com/~dhowells/keyutils/keyutils-1.6.1.tar.bz2
+URL = https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/snapshot/keyutils-1.6.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
